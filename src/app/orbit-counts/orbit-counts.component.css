@@ -1,8 +1,9 @@
 .counts {
-	background: #34495E;
+	background: rgb(2, 66, 138);
 	color: #fff;
-	border-radius: 5px;
 	width: 225px;
+	margin-bottom: 20px;
+	border: 3px solid rgb(0, 62, 128);
 }
 
 .counts div {
