@@ -6,6 +6,7 @@ import { Satellite } from '../satellite';
   templateUrl: './orbit-counts.component.html',
   styleUrls: ['./orbit-counts.component.css']
 })
+
 export class OrbitCountsComponent implements OnInit {
 
 	@Input() satellites: Satellite[];
